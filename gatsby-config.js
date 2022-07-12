@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
@@ -144,7 +144,7 @@ module.exports = {
     },
   ],
 };
-=======
+
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
@@ -290,4 +290,4 @@ module.exports = {
     },
   ],
 };
->>>>>>> 711344f090c446c77b83d4cc19613eca98a53ac0
+
