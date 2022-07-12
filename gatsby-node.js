@@ -78,6 +78,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       projects: [SectionItem]
       experience: [SectionItem]
       skills: [SectionItem]
+    
     }
 
     type SectionItem {
@@ -100,6 +101,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     type Fields {
       slug: String
     }
+
   `;
   createTypes(typeDefs);
-};
+}
