@@ -29,19 +29,19 @@ module.exports = {
         name: 'Devfolio',
         description:
           'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/AlexG2G/dev',
+        link: 'https://github.com/AlexG2G/website',
       },
       {
         name: 'Finance GUI - APY & Balance Program with Exception Handler',
         description:
           'Finance GUI Calculator using Python',
-        link: 'https://github.com/AlexG2G/iit/tree/main/iit/assignment_4',
+        link: 'https://github.com/AlexG2G/intro-to-information-technology/tree/main/assignment_4',
       },
       {
         name: 'Web Site for Pacific Trails Resort',
         description:
           'HTML & CSS Project',
-        link: 'https://github.com/AlexG2G/iit/tree/main/iit/assignment_5',
+        link: 'https://github.com/AlexG2G/intro-to-information-technology/tree/main/assignment_5',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
