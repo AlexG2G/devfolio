@@ -1,5 +1,5 @@
 ---
-title: HTML & CSS Project
+title: Pacific Trails Resort - HTML & CSS Project
 date: '2022-07-04T12:00:00.00Z'
 description: 'HTML & CSS Project for Pacific Trails Resort'
 ---
