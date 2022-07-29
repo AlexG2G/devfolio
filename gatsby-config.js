@@ -68,7 +68,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Python, Node.js, Express.js, React, Ruby, HTML, CSS, Bash, Lua, GatsbyJs, TailwindCSS',
+          'JavaScript (ES6+), Python, Node.js, React, Ruby, HTML, CSS, Git, Lua, Gatsby.js, TailwindCSS',
       },
       {
         name: 'Databases',
