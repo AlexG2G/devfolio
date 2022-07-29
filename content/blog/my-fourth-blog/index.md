@@ -14,7 +14,7 @@ This blog post goes into some detail on this website, Devfolio. It was built usi
 
 
 
-## Hulu Webpage Source Code
+## Devfolio Source Code for Main Webpage
 
 If you are interested, below you can find the source code for this webpage, if you want to have a look at the CSS and JavaScript component of this project you can find the source code for this project in [my Devfolio respository, on Github.](https://github.com/AlexG2G/website).
 
