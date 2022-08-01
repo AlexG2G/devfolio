@@ -35,7 +35,7 @@ module.exports = {
         name: 'Finance GUI - APY & Balance Program',
         description:
           'Finance GUI Calculator using Python',
-        link: 'https://github.com/AlexG2G/intro-to-information-technology/tree/main/assignment_4',
+        link: 'https://github.com/AlexG2G/Finance-GUI',
       },
       {
         name: 'Website for Pacific Trails Resort',
