@@ -9,7 +9,7 @@ Designed in my first semester. This project was meant to show us how python, or 
 
 ![GUI](./gui.png)
 
-You can find the [Finance Program](https://github.com/AlexG2G/iit-repos/tree/main/iit/assignment_4) here in my GitHub repository. Here is the code for the GUI part of the program
+You can find the [Finance Program](https://github.com/AlexG2G/Finance-GUI) here in my GitHub repository. Here is the code for the GUI part of the program
 
 #
 ```js
