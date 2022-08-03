@@ -1,7 +1,7 @@
 ---
 title: Devfolio - Portfolio Website
 date: '2022-07-14T12:00:00.00Z'
-description: 'Hulu Web Page - HTML, CSS, JavaScript'
+description: 'Devfolio - Portfolio Website, built with GatsbyJS and TailwindCSS.'
 ---
 
 ## Devfolio Web Page - TailwindCSS, GatsbyJS.
