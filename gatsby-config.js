@@ -14,16 +14,11 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alex-greenfield-755142243/`,
     // Content of the About Me section
-    about: `Hi my name is Alex, I am a Software Engineer and I am currently focusing on Web Development,
-     I have many sought after skills in the ICT sector such
-    as teamwork, collaboration, problem-solving, and communication skills. I am currently studying 
-    Software Engineering, a Bachelor of Software Engineering at the University of Canberra. 
-    I have learned many skills in many fields of Engineering, some of these skills are Testing,
-    Programming in various langauges, Software Design and Database Design, Report Writing and undertaking analysis
-    into my projects. During college, I coded in various languages such as HTML, CSS, JavaScript, Ruby, Rails,
-    Lua, and Python and used software/hardware such as Visual Studio, Git Bash, GitHub, Arduino
-    Uno, Unity, Space Gass, Autodesk Inventor, and AutoCAD to design and analyze the
-    projects I have worked on. I look forward to furthering my knowledge in the field as I continue to learn.`,
+    about: `Alex is a Software Engineer currently focusing on Web Development and Python Programming,
+     He has many sought after skills in the ICT sector such
+    as teamwork, collaboration, problem-solving, and communication skills.
+    He is currently studying a Bachelor of Software Engineering at the University of Canberra,`,
+    
     projects: [
       {
         name: 'Devfolio Project',
