@@ -10,7 +10,7 @@ This project was created in my first semester of university. We were assigned to
 
 ![PacificTrailsResort](./ptr.png)
 
-You can find the source code for this project in [My GitHub Repository](https://github.com/AlexG2G/iit-repos/tree/main/iit/assignment_5). I have also included the code for the main web page below. As seen in the screenshot above.
+You can find the source code for this project in [My GitHub Repository](https://github.com/AlexG2G/intro-to-information-technology/tree/main/assignment_5). I have also included the code for the main web page below. As seen in the screenshot above.
 
 
 

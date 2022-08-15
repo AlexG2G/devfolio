@@ -16,7 +16,7 @@ This blog post contains a Hulu webpage recreated using HTML, CSS and Javascript.
 
 ## Hulu Webpage Source Code
 
-If you are interested, below you can find the source code for this webpage, if you want to have a look at the CSS and JavaScript component of this project you can find the source code for this project in [My GitHub Repository](https://github.com/AlexG2G/iit-repos/tree/main/iit/hulu).
+If you are interested, below you can find the source code for this webpage, if you want to have a look at the CSS and JavaScript component of this project you can find the source code for this project in [My GitHub Repository](https://github.com/AlexG2G/intro-to-information-technology/tree/main/hulu).
 
 ```js
 <!DOCTYPE html>
