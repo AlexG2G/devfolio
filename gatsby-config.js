@@ -14,10 +14,10 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alex-greenfield-755142243/`,
     // Content of the About Me section
-    about: `Alex is a Software Engineer currently focusing on Web Development and Python Programming,
+    about: `Alex is a Software Engineer currently focusing on Web Developmentssssssssssssssssssssssssssssssssssssssss and Python Programming,
      He has many sought after skills in the ICT sector such
     as teamwork, collaboration, problem-solving, and communication skills.
-    He is currently studying a Bachelor of Software Engineering at the University of Canberra,`,
+    He is currently studying a Bachelor of Software Engineering at the University of Canberra.`,
     
     projects: [
       {
