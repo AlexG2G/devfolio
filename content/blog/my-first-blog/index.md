@@ -5,11 +5,11 @@ description: 'GUI Finance Program -  APY (%) & Balance ($)'
 ---
 
 ## Finance GUI Program - Built with Python 
-Designed in my first semester. This project was meant to show us how python, or programs in general can help solve real world problems and have real world applications.
+This was a program designed in my first semester at the University of Canberra. This project was meant to show us how python, or programs in general can help solve real world problems and have real world applications that automate a interface for a particular  problem.
 
 ![GUI](./gui.png)
 
-You can find the [Finance Program](https://github.com/AlexG2G/Finance-GUI) here in my GitHub repository. Here is the code for the GUI part of the program
+You can find the [Finance Program](https://github.com/AlexG2G/Finance-GUI) here in my GitHub repository. Below is the source code for the  APY (%) & ($) Balance Calculator Finance GUI.  
 
 #
 ```js
