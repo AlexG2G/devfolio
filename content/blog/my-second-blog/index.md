@@ -6,7 +6,7 @@ description: 'HTML & CSS Project for Pacific Trails Resort'
 
 ## HTML & CSS Project for Pacific Trails Resort
 
-This project was created in my first semester of university. We were assigned to create a website for a business, using HTML & CSS as the programming langauges. Very easy project compared to the Finance GUI Project, that was made with the programming language. This website was built using GatsbyJs and TailwindCSS. 
+This project was created in my first semester at the University of Canberra. We were assigned to create a website for a business, using HTML & CSS as the programming langauges. 
 
 ![PacificTrailsResort](./ptr.png)
 
