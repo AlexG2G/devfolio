@@ -6,11 +6,11 @@ description: 'HTML & CSS Project for Pacific Trails Resort'
 
 ## HTML & CSS Project for Pacific Trails Resort
 
-This project was created in my first semester of university. We were assigned to create a website for a business, using HTML & CSS as the programming langauges. Very easy project compared to the Python project, and even this website. This website was built using GatsbyJs and TailwindCSS. 
+This project was created in my first semester of university. We were assigned to create a website for a business, using HTML & CSS as the programming langauges. Very easy project compared to the Finance GUI Project, that was made with the programming language. This website was built using GatsbyJs and TailwindCSS. 
 
 ![PacificTrailsResort](./ptr.png)
 
-You can find the source code for this project in [My GitHub Repository](https://github.com/AlexG2G/intro-to-information-technology/tree/main/assignment_5). I have also included the code for the main web page below. As seen in the screenshot above.
+You can find the source code for this project in [My GitHub Repository](https://github.com/AlexG2G/intro-to-information-technology/tree/main/assignment_5). I have also included the code for the main web page below. 
 
 
 

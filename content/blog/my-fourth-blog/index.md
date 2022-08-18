@@ -10,7 +10,7 @@ description: 'Devfolio - Portfolio Website, built with GatsbyJS and TailwindCSS'
 
 ![Devfolio](./devfolio.png)
 
-This blog post goes into some detail on this website, Devfolio. It was built using TailwindCSS and GatsbyJS. It is a personal portfolio where you can add an about me section, social media, projects, experience, blog posts and relevant skills. This can be used as a mode of collating your best projects and putting them on display so other developers and recruiters can access your portfolio in an efficent enviorment, where most of the information they need can be found easily. Blog posts can provide more insight into the projects.
+This blog post goes into some detail on the Github Project website, Devfolio. It was built using TailwindCSS and GatsbyJS. It is a personal portfolio website that you can find developers social media, projects, experience, blog posts and relevant skills. This can be used as a mode of collating your best projects and putting them on display so other developers and recruiters can access your portfolio in an efficent enviorment, where most of the information they need can be found easily. 
 
 
 
@@ -21,6 +21,7 @@ If you are interested, below you can find the source code for this webpage, if y
 
 #
 ```js
+
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
@@ -28,7 +29,7 @@ module.exports = {
     // Your Name
     name: 'Alex Greenfield',
     // Main Site Title
-    title: `Alex Greenfield | University of Canberra | Student | Software Engineering`,
+    title: `Alex Greenfield | University of Canberra Software Engineering`,
     // Description that goes under your name in main bio
     description: `Student at the University of Canberra | Class of 22-24`,
     // Optional: Github account URL
@@ -36,16 +37,11 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alex-greenfield-755142243/`,
     // Content of the About Me section
-    about: `Hi my name is Alex, I am a Software Engineer and I am currently focusing on Web Development,
-     I have many sought after skills in the ICT sector such
-    as teamwork, collaboration, problem-solving, and communication skills. I am currently studying 
-    Software Engineering, a Bachelor of Software Engineering at the University of Canberra. 
-    I have learned many skills in many fields of Engineering, some of these skills are Testing,
-    Programming in various langauges, Software Design and Database Design, Report Writing and undertaking analysis
-    into my projects. During college, I coded in various languages such as HTML, CSS, JavaScript, Ruby, Rails,
-    Lua, and Python and used software/hardware such as Visual Studio, Git Bash, GitHub, Arduino
-    Uno, Unity, Space Gass, Autodesk Inventor, and AutoCAD to design and analyze the
-    projects I have worked on. I look forward to furthering my knowledge in the field as I continue to learn.`,
+    about: `Alex is a Software Engineer currently focusing on Web Development and Python Programming.
+     He has many sought after skills in the ICT sector such
+    as teamwork, collaboration, problem-solving, and communication skills.
+    He is currently studying a Bachelor of Software Engineering at the University of Canberra.`,
+    
     projects: [
       {
         name: 'Devfolio Project',
@@ -54,10 +50,10 @@ module.exports = {
         link: 'https://github.com/AlexG2G/website',
       },
       {
-        name: 'Finance GUI - APY & Balance Program with Exception Handler',
+        name: 'Finance GUI - APY & Balance Program',
         description:
           'Finance GUI Calculator using Python',
-        link: 'https://github.com/AlexG2G/intro-to-information-technology/tree/main/assignment_4',
+        link: 'https://github.com/AlexG2G/Finance-GUI',
       },
       {
         name: 'Website for Pacific Trails Resort',
@@ -90,7 +86,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Python, Node.js, Express.js, React, Ruby, HTML, CSS, Bash, Lua, GatsbyJs, TailwindCSS',
+          'JavaScript (ES6+), Python, Node.js, React, Ruby, HTML, CSS, Git, Lua, Gatsby.js, TailwindCSS',
       },
       {
         name: 'Databases',
@@ -99,7 +95,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Database Design, DBMS, CI / CD, API design, Agile / Scrum, Cyber Secuirty, Git Bash',
+          'Docker, Database Design, DBMS, CI / CD, API design, Agile / Scrum, Cyber Security, Git Bash',
       },
     ],
   },
@@ -166,6 +162,7 @@ module.exports = {
     },
   ],
 };
+
 ```
 
 Thank you for reading this blog post!
