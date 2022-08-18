@@ -1,11 +1,11 @@
 ---
-title: Python Project - GUI
+title: Finance GUI - APY (%) & ($) Balance Calculator Finance GUI
 date: '2022-07-02T12:00:00.00Z'
 description: 'GUI Finance Program -  APY (%) & Balance ($)'
 ---
 
-## Finance GUI Program - Built with Python 
-This was a program designed in my first semester at the University of Canberra. This project was meant to show us how the programming laguage Python, or programs in general can help solve real world problems and have real world applications that automate a interface for a particular  problem.
+##  Built with Python 
+This was a program designed in my first semester at the University of Canberra. This project was meant to show us how the programming laguage Python, or programs in general can help solve real world problems and have real world applications that automate a interface for a particular problem.
 
 ![GUI](./gui.png)
 

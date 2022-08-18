@@ -10,7 +10,7 @@ description: 'Hulu Web Page - HTML, CSS, JavaScript'
 
 ![Hulu](./hulu.png)
 
-This blog post contains a Hulu webpage clone recreated using HTML, CSS and Javascript. 
+This blog post contains some insight into the Hulu webpage clone recreated using HTML, CSS and Javascript. 
 
 
 
