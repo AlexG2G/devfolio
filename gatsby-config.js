@@ -72,7 +72,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Database Design, DBMS, CI / CD, API design, Agile / Scrum, Cyber Security, Git Bash',
+          'Docker, Database Design, DBMS, CI / CD, API design, Agile / Scrum, Cyber Security',
       },
     ],
   },
