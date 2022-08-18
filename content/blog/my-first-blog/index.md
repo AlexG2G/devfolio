@@ -1,5 +1,5 @@
 ---
-title: Finance GUI - APY (%) & ($) Balance Calculator Finance GUI
+title: Finance GUI - APY (%) & ($) Balance Calculator 
 date: '2022-07-02T12:00:00.00Z'
 description: 'GUI Finance Program -  APY (%) & Balance ($)'
 ---
