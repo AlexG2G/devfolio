@@ -10,7 +10,7 @@ description: 'Hulu Web Page - HTML, CSS, JavaScript'
 
 ![Hulu](./hulu.png)
 
-This blog post contains a Hulu webpage recreated using HTML, CSS and Javascript. This was my first time using all three programming langauges together. This shows my ability to create web pages similar to the level required in the industry. 
+This blog post contains a Hulu webpage clone recreated using HTML, CSS and Javascript. 
 
 
 
