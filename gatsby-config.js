@@ -8,7 +8,7 @@ module.exports = {
     // Main Site Title
     title: `Alex Greenfield | UC | SE`,
     // Description that goes under your name in main bio
-    description: `Student at the University of Canberra | Class of 22-24`,
+    description: `Student at the University of Canberra | Class of 2024`,
     // Optional: Github account URL
     github: `https://github.com/AlexG2G`,
     // Optional: LinkedIn account URL
@@ -72,7 +72,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Database Design, DBMS, CI / CD, API design, Agile / Scrum, Cyber Security',
+          'Docker, Software Design, Database Design, System Design, DBMS, CI / CD, API design, Agile / Scrum, Cyber Security, Bash',
       },
     ],
   },
