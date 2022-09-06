@@ -10,7 +10,7 @@ description: 'Devfolio - Portfolio Website, built with GatsbyJS and TailwindCSS'
 
 ![Devfolio](./devfolio.png)
 
-This blog post goes into some detail on the Github Project website, Devfolio. It was built using TailwindCSS and GatsbyJS. It is a personal portfolio website that you can find developers social media, projects, experience, blog posts and relevant skills. This can be used as a mode of collating your best projects and putting them on display so other developers and recruiters can access your portfolio in an efficent enviorment, where most of the information they need can be found easily. 
+This blog post goes into some detail on the Github Project website, Devfolio. It was built using TailwindCSS and GatsbyJS. It is a personal portfolio website where you can find developers social media, projects, experience, blog posts and relevant skills. This can be used as a mode of collating your best projects and putting them on display so other developers and recruiters can access your portfolio in an efficent enviroment. 
 
 
 
