@@ -5,7 +5,7 @@ description: 'GUI Finance Program -  APY & Balance Calculator'
 ---
 
 ##  Built with Python 
-This was a program designed in my first semester at the University of Canberra. This project was meant to show us how the programming laguage Python, or programs in general can help solve real world problems and have real world applications that automate a interface for a particular problem.
+This was a program designed in my first semester at the University of Canberra. This project was meant to show us how the programming laguage Python, or programs in general can help solve real world problems and have real world applications that automate a problem and display interface for a particular problem.
 
 ![GUI](./gui.png)
 
