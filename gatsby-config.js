@@ -6,7 +6,7 @@ module.exports = {
     // Your Name
     name: 'Alex Greenfield',
     // Main Site Title
-    title: `Alex Greenfield | UC | SE`,
+    title: `Alex Greenfield | UC`,
     // Description that goes under your name in main bio
     description: `Student at the University of Canberra | Class of 2024`,
     // Optional: Github account URL
@@ -14,28 +14,28 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alex-greenfield-755142243/`,
     // Content of the About Me section
-    about: `Alex is a Software Engineer currently focusing on Web Development and Python Programming, System Analysis & Modelling, 
-    Software Design and Database Design. He has many sought after skills in the ICT sector such as teamwork, collaboration, problem-solving, and communication skills. 
+    about: `Alex is a Software Engineer who is currently focusing on Web Development, Python Programming, System Analysis & Modelling, 
+    Software Design and Cybersecurity. He has many sought after skills in the ICT sector such as teamwork, collaboration, problem-solving, and communication skills. 
     He is currently studying a Bachelor of Software Engineering at the University of Canberra.`,
-    
+
     projects: [
       {
         name: 'Devfolio Project',
         description:
           'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/AlexG2G/website',
+        link: 'https://github.com/AlexG2G/devfolio',
       },
       {
-        name: 'Finance GUI - APY & Balance Program',
+        name: 'Python Finance Project',
         description:
           'Finance GUI Calculator using Python',
         link: 'https://github.com/AlexG2G/Finance-GUI',
       },
       {
-        name: 'Website for Pacific Trails Resort',
+        name: 'Link tree project',
         description:
           'HTML & CSS Project',
-        link: 'https://github.com/AlexG2G/intro-to-information-technology/tree/main/assignment_5',
+        link: 'https://github.com/AlexG2G/link-in-bio',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -62,16 +62,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Python, Node.js, React, Ruby, HTML, CSS, Git, Lua, Gatsby.js, TailwindCSS',
+          'JavaScript, Python, Node.js, React,  HTML, CSS, Git, Gatsby.js, TailwindCSS',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, MySQL',
+        description: 'MongoDB, SQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Software Design, Database Design, System Analysis & Modelling, DBMS, CI / CD, API design, Agile / Scrum, Cyber Security, Bash',
+          'Software Design, Database Design, System Analysis & Modelling, DBMS, CI / CD, Agile / Scrum, Cyber Security, Streamlit',
       },
     ],
   },
