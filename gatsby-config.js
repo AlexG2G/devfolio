@@ -32,7 +32,7 @@ module.exports = {
         link: 'https://github.com/AlexG2G/Finance-GUI',
       },
       {
-        name: 'Link tree project',
+        name: 'Link Tree Project',
         description:
           'HTML & CSS Project',
         link: 'https://github.com/AlexG2G/link-in-bio',
