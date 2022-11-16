@@ -6,7 +6,7 @@ module.exports = {
     // Your Name
     name: 'Alex Greenfield',
     // Main Site Title
-    title: `Alex Greenfield | UC`,
+    title: `Alex's Developer Portfolio & Blog`,
     // Description that goes under your name in main bio
     description: `Student at the University of Canberra | Class of 2024`,
     // Optional: Github account URL
