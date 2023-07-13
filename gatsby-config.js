@@ -71,7 +71,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Software Design, Database Design, System Analysis & Modelling, DBMS, CI / CD, Agile / Scrum, Cyber Security, Streamlit',
+          'Software Design, Database Design, System Analysis & Modelling, DBMS, CI / CD, Agile / Scrum, Cyber Security, Security and Support in IT, Network Engineering, System and Netowrk Admin,  Streamlit',
       },
     ],
   },
