@@ -8,15 +8,14 @@ module.exports = {
     // Main Site Title
     title: `Alex's Developer Portfolio & Blog`,
     // Description that goes under your name in main bio
-    description: `Student at the University of Canberra | Class of 2024`,
+    description: `Student at the University of Canberra | Class of 2025`,
     // Optional: Github account URL
     github: `https://github.com/AlexG2G`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alex-greenfield-755142243/`,
     // Content of the About Me section
-    about: `Alex is a Software Engineer who is currently focusing on Web Development, Python Programming, System Analysis & Modelling, 
-    Software Design and Cybersecurity. He has many sought after skills in the ICT sector such as teamwork, collaboration, problem-solving, and communication skills. 
-    He is currently studying a Bachelor of Software Engineering at the University of Canberra.`,
+    about: `Alex is a software engineering student who is currently in his second year at the University of Canberra. 
+    He has many sought after skills in the ICT sector such as teamwork, collaboration, problem-solving, and communication skills.`,
 
     projects: [
       {
@@ -62,7 +61,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript, Python, Node.js, React,  HTML, CSS, Git, Gatsby.js, TailwindCSS',
+          'JavaScript, Java, Python, Node.js, React,  HTML, CSS, Git, Gatsby.js, TailwindCSS',
       },
       {
         name: 'Databases',
